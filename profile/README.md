@@ -8,7 +8,7 @@
 ### 1. **FirstBreath AI**
 At the heart of our system, **FirstBreath AI** is an artificial intelligence algorithm that analyzes live video feeds to detect the early signs of foaling. Using advanced machine learning models, it ensures fast and accurate detection.
 
-[View project](https://github.com/FirstBreath/FirstBreath-AI)
+[View project](https://github.com/FirstBreath/FirstBreathAI)
 
 ### 2. **FirstBreath Control Hub**
 The **Control Hub** is a web application that allows users to register and configure IP cameras. It serves as a central management tool to launch **FirstBreath AI** on connected video streams, ensuring continuous monitoring.
@@ -17,7 +17,7 @@ The **Control Hub** is a web application that allows users to register and confi
 - Automatic AI deployment on video feeds.
 - Simplified user configuration.
 
-[View project](https://github.com/FirstBreath/FirstBreath-ControlHub)
+[View project](https://github.com/FirstBreath/Control-Hub)
 
 ### 3. **FirstBreath Video App**
 The **FirstBreath Video App** allows users to view live video streams from connected cameras and access recordings of critical moments detected by the AI. Available in both web and mobile versions, it provides real-time monitoring wherever you are.
@@ -26,7 +26,7 @@ The **FirstBreath Video App** allows users to view live video streams from conne
 - Access to historical recordings.
 - Notifications when events are detected.
 
-[View project](https://github.com/FirstBreath/FirstBreath-VideoApp)
+[View project](https://github.com/FirstBreath/Video-App)
 
 ### 4. **FirstBreath Showcase**
 The **FirstBreath Showcase** website presents our mission, solutions, and the benefits of our technology for breeders and trainers. It also features case studies and explains how to integrate our solutions into your stables.
