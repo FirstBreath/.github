@@ -31,7 +31,7 @@ The **FirstBreath Video App** allows users to view live video streams from conne
 ### 4. **FirstBreath Showcase**
 The **FirstBreath Showcase** website presents our mission, solutions, and the benefits of our technology for breeders and trainers. It also features case studies and explains how to integrate our solutions into your stables.
 
-[Visit Showcase](https://www.firstbreath.com)
+[Visit Showcase](https://www.firstbreath.fr)
 
 ## Our Mission
 
